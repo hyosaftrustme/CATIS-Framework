@@ -18,4 +18,4 @@ This is mine — a personal framework, not something certified or officially ado
 
 ## License
 
-Not yet decided — see note in the framework doc. Reach out before assuming you can reuse it.
+"The CATIS Framework is not freely available. Experimental use by individuals or organizations is permitted solely under a signed mutual agreement or at the sole discretion of the creator."
